@@ -11,6 +11,7 @@
 관리자 권한 요청 금지. (모집 시 제외)
 채팅 채널, 음성 채널에서의 분쟁 금지.
 타 유튜버 및 스트리머의 영상이나 채널 언급 금지.
+노래 재생 후 종료하지 않고 음성 채널 퇴장 금지.
 
 https://discord.com/guidelines
 https://discord.com/terms
@@ -21,3 +22,8 @@ https://discord.com/terms
 "처벌 수위는 관리자 재량입니다"
 "처벌 조항에 포함되지 않더라도 관리자의 재량에 따라 처벌될 수 있습니다"
 규칙 추가는 @BnN#9505 로 알려주세요.
+
+
+경고 4회 누적 시 영구 추방
+경고 해제와 영구 추방 해제 요청은 깃허브 링크를 참조하세요
+https://github.com/GLOD11/DISCORD-GUIDE/blob/main/GUIDE
